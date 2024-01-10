@@ -46,15 +46,8 @@ flutter run
 
 
 Make sure you have Flutter and Dart installed on your machine before running the app.
-## Walkthrough of Kidstagram -
-https://github.com/flaminshinjan/dream_catcher/assets/116586681/acca4a7b-a890-47f3-9a71-4e1bd934b12e
-## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the code formatting and style guidelines defined in the project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
